@@ -1,5 +1,3 @@
-### Hi there 👋
+Hi, I'm Arsen Pidburachynskyi.
 
-<!--
-I am Msc. Student in Econometrics and Statistics. 
--->
+I'm an MSc student in Econometrics and Statistics at Paris-Panthéon-Assas University, currently working as a Health Underwriting Apprentice at AXA Life and Health International Solutions. I’m interested in data modeling, automation, and statistical analysis,
